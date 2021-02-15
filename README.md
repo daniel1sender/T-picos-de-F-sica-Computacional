@@ -1,2 +1,2 @@
-# T-picos-de-F-sica-Computacional
-Matéria de Tópicos de física computacional com um trabalho sobre propagação de ondas
+Tópicos de Física Computacional em Scilab
+Matéria de Tópicos de física computacional com um trabalho final sobre propagação de ondas
